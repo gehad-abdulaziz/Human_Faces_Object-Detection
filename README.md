@@ -3,7 +3,7 @@
 A real-time face detection and blurring system using YOLOv8 and Gradio. This project automatically detects faces in images and applies Gaussian blur for privacy protection.
 
 ## data set : https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection/data
-
+## kaggle notebook: https://www.kaggle.com/code/gehadabdulaziz/yolov8-face-blur
 ##  Table of Contents
 
 - [Features](#features)
